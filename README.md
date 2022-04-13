@@ -1,0 +1,2 @@
+# E-WorkerHiringSystem
+e-Worker Hiring automated system provides a portal for Worker employment. Hiring process is controlled by administrator. e-Worker Hiring System will play key role in minimizing manual work and errors as well as eliminating agents in this entire cycle. It will save much time as well as reduce losses incurred traditional hiring system. This recruiting system will end the search for traditional worker hiring.  Workers get a chance to quickly react to new request and have employment. In initial phase, the system will be only for specific region.
